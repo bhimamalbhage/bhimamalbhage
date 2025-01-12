@@ -46,7 +46,7 @@ Check out my repositories for more projects!
 
 ## 📫 Contact Me
 - Email: bhimamalbhage1008@gmail.com  
-- LinkedIn: [linkedin.com/in/bhimamalbhage](https://linkedin.com/in/bhimamalbhage)  
+- LinkedIn: [linkedin.com/in/bmalbhage](https://linkedin.com/in/bmalbhage)  
 
 ## ⚡ Fun Fact
 I love participating in hackathons, and I’ve built tools and systems that make a real-world impact. Outside of coding, I enjoy exploring places, playing tennis and diving into AI innovations.
