@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I’m currently scaling my career in front-end and full-stack development, diving deeper into modern technologies and best practices. I enjoy solving challenging problems and developing innovative solutions.
 
 🛠️ Technologies & Tools
-- Programming Languages: JavaScript, TypeScript, Python, Java  
+- Programming Languages: JavaScript, TypeScript, Python  
 - Frameworks & Libraries: React.js, Redux, Vue.js, Next.js, Node.js  
 - Databases: MongoDB, MySQL  
 - Tools & Platforms: Git, Docker, Firebase, VS Code, Figma  
