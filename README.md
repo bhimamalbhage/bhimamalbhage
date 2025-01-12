@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Bhima Malbhage 👋
 
-🚀 About Me
-I'm a passionate Full Stack Developer and Front End Engineer with 3 years of experience in building scalable, user-friendly web applications. My journey has taken me through exciting projects like creating scalable traffic data sensing systems with AI and building products from scratch, including an AI Assistant for CRM.
+🚀 I'm a passionate Full Stack Developer and Front End Engineer with 3 years of experience in building scalable, user-friendly web applications. My journey has taken me through exciting projects like creating scalable traffic data sensing systems with AI and building products from scratch, including an AI Assistant for CRM.
 
 I’m currently scaling my career in front-end and full-stack development, diving deeper into modern technologies and best practices. I enjoy solving challenging problems and developing innovative solutions.
 
